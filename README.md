@@ -3,7 +3,7 @@ Support Website for Ahava Morse Developer Apps
 
 
 ## Privacy
-None of my apps collect any of your data. All content and preferences are stored on device.
+No data is collected by any of my apps. All content and preferences are stored on device.
 
 ## Support
 If you would like to report a bug or make a feature suggestion you have two options.
